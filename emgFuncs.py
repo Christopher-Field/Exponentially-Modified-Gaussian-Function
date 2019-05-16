@@ -22,7 +22,7 @@ from scipy.special import erfc
 def pnf(x):
 	"""Helper function to compute the cumulative probability for a normalized Gaussian
 
-	:param x: x is scalar or array. Note that x is overwritten by the function evaluation.
+	:param x: x is scalar or array. Note that x is overwritten during the function evaluation.
 	:return: probability with same shape as x
 
 	The pnf is defined as the probability that x<X when X is Gaussian distributed.
