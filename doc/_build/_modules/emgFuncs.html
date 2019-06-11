@@ -49,6 +49,9 @@
 
 <span class="sd">Digital Object Identifier 10.1109/TGRS.2019.2907230</span>
 
+<span class="sd">See https://en.wikipedia.org/wiki/Exponentially_modified_Gaussian_distribution for</span>
+<span class="sd">a description of the Exponentially-Modified Gaussian function.</span>
+
 <span class="sd">The regular entry point is **exgausspdf()**.</span>
 <span class="sd">&quot;&quot;&quot;</span>
 <span class="c1"># April 30, 2019</span>
@@ -63,7 +66,7 @@
 <div class="viewcode-block" id="pnf"><a class="viewcode-back" href="../index.html#emgFuncs.pnf">[docs]</a><span class="k">def</span> <span class="nf">pnf</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
 	<span class="sd">&quot;&quot;&quot;Helper function to compute the cumulative probability for a normalized Gaussian</span>
 
-<span class="sd">	:param x: x is scalar or array. Note that x is overwritten by the function evaluation.</span>
+<span class="sd">	:param x: x is scalar or array. Note that x is overwritten during the function evaluation.</span>
 <span class="sd">	:return: probability with same shape as x</span>
 
 <span class="sd">	The pnf is defined as the probability that x&lt;X when X is Gaussian distributed.</span>

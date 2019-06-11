@@ -1,0 +1,9 @@
+Documentation of emgfunc
+++++++++++++++++++++++++
+
+.. automodule:: emgFuncs
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+

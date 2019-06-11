@@ -1,0 +1,11 @@
+Documentation of Special Test 12 Processing
++++++++++++++++++++++++++++++++++++++++++++
+
+ST12 was a very complex program to perform all of the processing steps required by
+I&T Special Test 12. It has several sub-commands, one for each processing step.
+Most of the python code has been removed to focus on the doc strings.
+
+.. argparse::
+   :module: ST12
+   :func: commandline
+   :prog: ST12.py

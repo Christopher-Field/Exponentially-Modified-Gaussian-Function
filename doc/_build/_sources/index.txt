@@ -10,14 +10,10 @@ Welcome to Exponentially-Modified Gaussian function's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
-
 .. automodule:: emgFuncs
    :members:
    :undoc-members:
    :show-inheritance:
-
-
 
 Indices and tables
 ==================
