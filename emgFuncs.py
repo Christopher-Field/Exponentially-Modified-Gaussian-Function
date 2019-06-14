@@ -11,6 +11,9 @@ Digital Object Identifier 10.1109/TGRS.2019.2907230
 See https://en.wikipedia.org/wiki/Exponentially_modified_Gaussian_distribution for
 a description of the Exponentially-Modified Gaussian function.
 
+See <https://en.wikipedia.org/wiki/Exponentially_modified_Gaussian_distribution> for
+a description of the Exponentially-Modified Gaussian function.
+
 The regular entry point is **exgausspdf()**.
 """
 # April 30, 2019
